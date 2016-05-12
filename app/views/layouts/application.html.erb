@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Say Gee!!</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+
+
+  <!-- Bootstrap Core CSS -->
+  <%= stylesheet_link_tag 'bootstrap.min.css' %>
+
+  <!-- Custom fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+  <%= stylesheet_link_tag 'font-awesome.min.css' %>
+  <%= stylesheet_link_tag 'ionicons.min.css' %>
+  <%= stylesheet_link_tag 'animate.min.css' %>
+
+  <!-- Background Slider -->
+  <%= stylesheet_link_tag 'vegas.min.css' %>
+
+
+  <!-- Custom CSS -->
+  <%= stylesheet_link_tag 'csoon.css' %>
+</head>
+<body>
+
+<%= yield %>
+
+</body>
+</html>
