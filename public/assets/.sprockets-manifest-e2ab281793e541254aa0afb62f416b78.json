@@ -1,1 +1,460 @@
-{"files":{"ionicons-a4803d7bdeb478a5b9238fe74d8aaa98dafe2e8e68fccbd0e3f4dced823f27f0.eot":{"logical_path":"ionicons.eot","mtime":"2015-01-03T11:02:30-06:00","size":120724,"digest":"a4803d7bdeb478a5b9238fe74d8aaa98dafe2e8e68fccbd0e3f4dced823f27f0","integrity":"sha256-pIA9e960eKW5I4/nTYqqmNr+Lo5o/MvQ4/Tc7YI/J/A="},"ionicons-a627d9068c1235d9b3c95c405eb6ecb64a290b159cf5e926c0d96d89b24cd5fc.svg":{"logical_path":"ionicons.svg","mtime":"2015-01-03T11:02:30-06:00","size":333834,"digest":"a627d9068c1235d9b3c95c405eb6ecb64a290b159cf5e926c0d96d89b24cd5fc","integrity":"sha256-pifZBowSNdmzyVxAXrbstkopCxWc9ekmwNltibJM1fw="},"ionicons-2ba7f20b1d8990e17a47fe3d88e4c766628aaa2baf1dd30fca0a0db59836f5f9.ttf":{"logical_path":"ionicons.ttf","mtime":"2015-01-03T11:02:30-06:00","size":188508,"digest":"2ba7f20b1d8990e17a47fe3d88e4c766628aaa2baf1dd30fca0a0db59836f5f9","integrity":"sha256-K6fyCx2JkOF6R/49iOTHZmKKqiuvHdMPygoNtZg29fk="},"ionicons-709f2789daaff440820ebb975d3ae409af45121bdec47e39e83523490b1bc0fc.woff":{"logical_path":"ionicons.woff","mtime":"2015-01-03T11:02:30-06:00","size":67904,"digest":"709f2789daaff440820ebb975d3ae409af45121bdec47e39e83523490b1bc0fc","integrity":"sha256-cJ8nidqv9ECCDruXXTrkCa9FEhvexH456DUjSQsbwPw="},"0-af2cca04f73391027b2d876721c84040ba60015d9e8a74a32729d7bdedbca026.jpg":{"logical_path":"0.jpg","mtime":"2015-09-03T16:26:00-05:00","size":56535,"digest":"af2cca04f73391027b2d876721c84040ba60015d9e8a74a32729d7bdedbca026","integrity":"sha256-ryzKBPczkQJ7LYdnIchAQLpgAV2einSjJynXve28oCY="},"1-5af092e8c8c3c40ecf3062bd18491fdd87ba1e0da1c88920c25c3d8854a207b8.jpg":{"logical_path":"1.jpg","mtime":"2015-09-03T16:26:00-05:00","size":120425,"digest":"5af092e8c8c3c40ecf3062bd18491fdd87ba1e0da1c88920c25c3d8854a207b8","integrity":"sha256-WvCS6MjDxA7PMGK9GEkf3Ye6Hg2hyIkgwlw9iFSiB7g="},"2-53c505f348cd171bfb4f0cd1ab0ead087e7329931fb8540c76205ba943a8916d.jpg":{"logical_path":"2.jpg","mtime":"2015-09-03T16:26:00-05:00","size":212587,"digest":"53c505f348cd171bfb4f0cd1ab0ead087e7329931fb8540c76205ba943a8916d","integrity":"sha256-U8UF80jNFxv7TwzRqw6tCH5zKZMfuFQMdiBbqUOokW0="},"3-733b5b96139fb4e7dd8c4f135fb4ca81069136fa3df4242f93e8e6fd7f8da891.jpg":{"logical_path":"3.jpg","mtime":"2015-09-03T16:26:00-05:00","size":277633,"digest":"733b5b96139fb4e7dd8c4f135fb4ca81069136fa3df4242f93e8e6fd7f8da891","integrity":"sha256-cztblhOftOfdjE8TX7TKgQaRNvo99CQvk+jm/X+NqJE="},"4-521ca70eefff265c4d85ddf713acbb6608551423924735b38cbcb5e9488e6e90.jpg":{"logical_path":"4.jpg","mtime":"2015-09-03T16:25:58-05:00","size":161102,"digest":"521ca70eefff265c4d85ddf713acbb6608551423924735b38cbcb5e9488e6e90","integrity":"sha256-UhynDu//JlxNhd33E6y7ZghVFCOSRzWzjLy16UiObpA="},"5-a5a668944c9a353919af3dbf6b19dd1a12677d504575f95dffe80ac1f251c4ea.jpg":{"logical_path":"5.jpg","mtime":"2015-09-03T16:25:58-05:00","size":206407,"digest":"a5a668944c9a353919af3dbf6b19dd1a12677d504575f95dffe80ac1f251c4ea","integrity":"sha256-paZolEyaNTkZrz2/axndGhJnfVBFdfld/+gKwfJRxOo="},"DSC_1103-1f762d1db241c1ab7f7be5e05ab25ec33b634faae01002d442bf3c032474fa83.JPG":{"logical_path":"DSC_1103.JPG","mtime":"2016-05-07T00:36:48-05:00","size":6623716,"digest":"1f762d1db241c1ab7f7be5e05ab25ec33b634faae01002d442bf3c032474fa83","integrity":"sha256-H3YtHbJBwat/e+XgWrJewztjT6rgEALUQr88AyR0+oM="},"Developer_Film Maker Gee-7647c79494d474cc8fec7fdb93fab88205483175e032bfab17cc6d85253d969f.JPG":{"logical_path":"Developer_Film Maker Gee.JPG","mtime":"2016-05-07T00:36:28-05:00","size":6142916,"digest":"7647c79494d474cc8fec7fdb93fab88205483175e032bfab17cc6d85253d969f","integrity":"sha256-dkfHlJTUdMyP7H/bk/q4ggVIMXXgMr+rF8xthSU9lp8="},"Gee-0838e4aa826f8c1ccc0d2b18358e95951fb65263e0380328502eef58d69d4578.JPG":{"logical_path":"Gee.JPG","mtime":"2016-05-07T00:36:30-05:00","size":6605974,"digest":"0838e4aa826f8c1ccc0d2b18358e95951fb65263e0380328502eef58d69d4578","integrity":"sha256-CDjkqoJvjBzMDSsYNY6VlR+2UmPgOAMoUC7vWNadRXg="},"YungBria-b596dc33baf91b046ff0d49544cf047473afe3d9b43bb8c36053f14c8f24b00d.jpg":{"logical_path":"YungBria.jpg","mtime":"2016-05-09T13:02:30-05:00","size":1004718,"digest":"b596dc33baf91b046ff0d49544cf047473afe3d9b43bb8c36053f14c8f24b00d","integrity":"sha256-tZbcM7r5GwRv8NSVRM8EdHOv49m0O7jDYFPxTI8ksA0="},"avatar1-59b890324361d54063469681226a7cc96b5fe32482ee78971e45cbd1e095b656.jpg":{"logical_path":"avatar1.jpg","mtime":"2015-09-03T16:25:58-05:00","size":21920,"digest":"59b890324361d54063469681226a7cc96b5fe32482ee78971e45cbd1e095b656","integrity":"sha256-WbiQMkNh1UBjRpaBImp8yWtf4ySC7niXHkXL0eCVtlY="},"avatar2-739570d595e7d5689980cc7e68a1c0ef48ce40fda37fa6ca6eccf449ee6b007d.jpg":{"logical_path":"avatar2.jpg","mtime":"2015-09-03T16:26:00-05:00","size":17778,"digest":"739570d595e7d5689980cc7e68a1c0ef48ce40fda37fa6ca6eccf449ee6b007d","integrity":"sha256-c5Vw1ZXn1WiZgMx+aKHA70jOQP2jf6bKbsz0Se5rAH0="},"avatar3-f8b6f8ad1bd336c7a16f19c71cd27c5690a08f64b62533fc2bfd0fe451097dd9.jpg":{"logical_path":"avatar3.jpg","mtime":"2015-09-03T16:26:00-05:00","size":38049,"digest":"f8b6f8ad1bd336c7a16f19c71cd27c5690a08f64b62533fc2bfd0fe451097dd9","integrity":"sha256-+Lb4rRvTNsehbxnHHNJ8VpCgj2S2JTP8K/0P5FEJfdk="},"avatar4-76086a9cd77cddd969b1c69a92fcfab0c6b14baaf9b6e7918bdfbb248734de04.jpg":{"logical_path":"avatar4.jpg","mtime":"2015-09-03T16:26:00-05:00","size":34088,"digest":"76086a9cd77cddd969b1c69a92fcfab0c6b14baaf9b6e7918bdfbb248734de04","integrity":"sha256-dghqnNd83dlpscaakvz6sMaxS6r5tueRi9+7JIc03gQ="},"loader-508f8275f35ec769815fa1e30d3339873a3d11fbac65326bd467ceb9561c479e.gif":{"logical_path":"loader.gif","mtime":"2015-05-07T20:08:40-05:00","size":38957,"digest":"508f8275f35ec769815fa1e30d3339873a3d11fbac65326bd467ceb9561c479e","integrity":"sha256-UI+CdfNex2mBX6HjDTM5hzo9EfusZTJr1GfOuVYcR54="},"logo-4a953aff16b410fafe683f4dbc21cc90763ff2b7226561098fbd7baefa88b0c6.png":{"logical_path":"logo.png","mtime":"2015-06-07T11:47:00-05:00","size":33603,"digest":"4a953aff16b410fafe683f4dbc21cc90763ff2b7226561098fbd7baefa88b0c6","integrity":"sha256-SpU6/xa0EPr+aD9NvCHMkHY/8rciZWEJj717rvqIsMY="},"logo1-7a123ffc8d11c0d5b40c77f837cb8c639dbe1f13db9f61b6c2f6971c5009fcee.png":{"logical_path":"logo1.png","mtime":"2015-05-28T12:21:10-05:00","size":3570,"digest":"7a123ffc8d11c0d5b40c77f837cb8c639dbe1f13db9f61b6c2f6971c5009fcee","integrity":"sha256-ehI//I0RwNW0DHf4N8uMY52+HxPbn2G2wvaXHFAJ/O4="},"logo2-97fd2119c51c2c71ef04e7a427b82457b7e75af627d0f9a829d99cda67a1f17f.png":{"logical_path":"logo2.png","mtime":"2015-05-28T12:21:16-05:00","size":2356,"digest":"97fd2119c51c2c71ef04e7a427b82457b7e75af627d0f9a829d99cda67a1f17f","integrity":"sha256-l/0hGcUcLHHvBOekJ7gkV7fnWvYn0PmoKdmc2meh8X8="},"logo3-f6cc3532444f28212ede23fd87eee7be0df210a05e639feae2208fed4d839da5.png":{"logical_path":"logo3.png","mtime":"2015-05-28T12:21:22-05:00","size":2968,"digest":"f6cc3532444f28212ede23fd87eee7be0df210a05e639feae2208fed4d839da5","integrity":"sha256-9sw1MkRPKCEu3iP9h+7nvg3yEKBeY5/q4iCP7U2DnaU="},"logo4-25bddd38ccec9b803be8fa3e141e4feb4570065db4b6866670d0fbf8313cc1f1.png":{"logical_path":"logo4.png","mtime":"2015-05-28T12:21:26-05:00","size":4294,"digest":"25bddd38ccec9b803be8fa3e141e4feb4570065db4b6866670d0fbf8313cc1f1","integrity":"sha256-Jb3dOMzsm4A76Po+FB5P60VwBl20toZmcND7+DE8wfE="},"logo5-f569abfcc356ecb22c0ca3503fe4f91d0a8b1ffd57a07faa822bced54fb79e7e.png":{"logical_path":"logo5.png","mtime":"2015-05-28T12:21:32-05:00","size":3057,"digest":"f569abfcc356ecb22c0ca3503fe4f91d0a8b1ffd57a07faa822bced54fb79e7e","integrity":"sha256-9Wmr/MNW7LIsDKNQP+T5HQqLH/1XoH+qgivO1U+3nn4="},"application-2b6c40351ae6748d5f491ef865f6dac68c778a956a19b9d80e87e0b3a8075c22.js":{"logical_path":"application.js","mtime":"2016-05-12T01:44:10-05:00","size":142836,"digest":"2b6c40351ae6748d5f491ef865f6dac68c778a956a19b9d80e87e0b3a8075c22","integrity":"sha256-K2xANRrmdI1fSR74Zfbaxox3ipVqGbnYDofgs6gHXCI="},"vegas/overlays/01-5ddb13e84c10a1b7a773f0580f2997c3b5e91d1c2227fc1313c5991429442657.png":{"logical_path":"vegas/overlays/01.png","mtime":"2015-10-29T15:18:18-05:00","size":211,"digest":"5ddb13e84c10a1b7a773f0580f2997c3b5e91d1c2227fc1313c5991429442657","integrity":"sha256-XdsT6EwQobenc/BYDymXw7XpHRwiJ/wTE8WZFClEJlc="},"vegas/overlays/02-c8afad923ad12f782c6cb53563b0335fd8aa317f3a5814d88b79b19f5679b3bb.png":{"logical_path":"vegas/overlays/02.png","mtime":"2015-10-29T15:18:18-05:00","size":213,"digest":"c8afad923ad12f782c6cb53563b0335fd8aa317f3a5814d88b79b19f5679b3bb","integrity":"sha256-yK+tkjrRL3gsbLU1Y7AzX9iqMX86WBTYi3mxn1Z5s7s="},"vegas/overlays/03-021c7caa7ff149c146699ef36babf141e219dba3164ad790ca01671b8bd2ddac.png":{"logical_path":"vegas/overlays/03.png","mtime":"2015-10-29T15:18:18-05:00","size":209,"digest":"021c7caa7ff149c146699ef36babf141e219dba3164ad790ca01671b8bd2ddac","integrity":"sha256-Ahx8qn/xScFGaZ7za6vxQeIZ26MWSteQygFnG4vS3aw="},"vegas/overlays/04-aec578846c14373efb19b86568aa26a7bda6a8190c2ba024f157dd8169584aab.png":{"logical_path":"vegas/overlays/04.png","mtime":"2015-10-29T15:18:18-05:00","size":211,"digest":"aec578846c14373efb19b86568aa26a7bda6a8190c2ba024f157dd8169584aab","integrity":"sha256-rsV4hGwUNz77GbhlaKomp72mqBkMK6Ak8VfdgWlYSqs="},"vegas/overlays/05-174d12c6dad717d57e3fc10afd45cba4694ceeab0501f1b42dec153f60af7e26.png":{"logical_path":"vegas/overlays/05.png","mtime":"2015-10-29T15:18:18-05:00","size":213,"digest":"174d12c6dad717d57e3fc10afd45cba4694ceeab0501f1b42dec153f60af7e26","integrity":"sha256-F00SxtrXF9V+P8EK/UXLpGlM7qsFAfG0LewVP2CvfiY="},"vegas/overlays/06-5132930f761724e07ade77c2ee61c0d4a9c68500f1370a078acfcecff86f1034.png":{"logical_path":"vegas/overlays/06.png","mtime":"2015-10-29T15:18:18-05:00","size":211,"digest":"5132930f761724e07ade77c2ee61c0d4a9c68500f1370a078acfcecff86f1034","integrity":"sha256-UTKTD3YXJOB63nfC7mHA1KnGhQDxNwoHis/Oz/hvEDQ="},"vegas/overlays/07-7cac752f182428a3780fb961447d803b6a51a3ca2f76e3da10fdb53096255a4e.png":{"logical_path":"vegas/overlays/07.png","mtime":"2015-10-29T15:18:18-05:00","size":215,"digest":"7cac752f182428a3780fb961447d803b6a51a3ca2f76e3da10fdb53096255a4e","integrity":"sha256-fKx1LxgkKKN4D7lhRH2AO2pRo8ovduPaEP21MJYlWk4="},"vegas/overlays/08-fe02d70713812b91ccd804366c80b40d2f2f8f1f048944e36bce1fd591b850d2.png":{"logical_path":"vegas/overlays/08.png","mtime":"2015-10-29T15:18:18-05:00","size":146,"digest":"fe02d70713812b91ccd804366c80b40d2f2f8f1f048944e36bce1fd591b850d2","integrity":"sha256-/gLXBxOBK5HM2AQ2bIC0DS8vjx8EiUTja84f1ZG4UNI="},"vegas/overlays/09-171c728935cc65ccdac105d28992f0020e968598eab1798983bb7973e40272aa.png":{"logical_path":"vegas/overlays/09.png","mtime":"2015-10-29T15:18:18-05:00","size":137,"digest":"171c728935cc65ccdac105d28992f0020e968598eab1798983bb7973e40272aa","integrity":"sha256-FxxyiTXMZczawQXSiZLwAg6WhZjqsXmJg7t5c+QCcqo="},"vegas/vegas.min.js-1d4597c115fac7529d6a2543a29efbfc761abd29a3d019601507e0499145c08f.map":{"logical_path":"vegas/vegas.min.js.map","mtime":"2016-05-11T13:36:39-05:00","size":33182,"digest":"1d4597c115fac7529d6a2543a29efbfc761abd29a3d019601507e0499145c08f","integrity":"sha256-HUWXwRX6x1KdaiVDop77/HYavSmj0BlgFQfgSZFFwI8="},"application-13fdc5fed1f5096e997418758b8b0b2e899d90026d2eb8b8b8537ab844b42106.css":{"logical_path":"application.css","mtime":"2016-05-12T01:44:10-05:00","size":310112,"digest":"13fdc5fed1f5096e997418758b8b0b2e899d90026d2eb8b8b8537ab844b42106","integrity":"sha256-E/3F/tH1CW6ZdBh1i4sLLomdkAJtLri4uFN6uES0IQY="},"font-awesome/fontawesome-webfont-e219ece8f4d3e4ac455ef31cd3a7c7b5057ea68a109937fc26b03c6e99ee9322.eot":{"logical_path":"font-awesome/fontawesome-webfont.eot","mtime":"2016-04-15T16:40:24-05:00","size":70807,"digest":"e219ece8f4d3e4ac455ef31cd3a7c7b5057ea68a109937fc26b03c6e99ee9322","integrity":"sha256-4hns6PTT5KxFXvMc06fHtQV+pooQmTf8JrA8bpnukyI="},"font-awesome/fontawesome-webfont-d67041fe5d50eef9ef671643968f7ce6b130eaaaaa2ce4d496b18d0a33aeb87b.svg":{"logical_path":"font-awesome/fontawesome-webfont.svg","mtime":"2016-04-15T16:40:24-05:00","size":365616,"digest":"d67041fe5d50eef9ef671643968f7ce6b130eaaaaa2ce4d496b18d0a33aeb87b","integrity":"sha256-1nBB/l1Q7vnvZxZDlo985rEw6qqqLOTUlrGNCjOuuHs="},"font-awesome/fontawesome-webfont-7b5a4320fba0d4c8f79327645b4b9cc875a2ec617a557e849b813918eb733499.ttf":{"logical_path":"font-awesome/fontawesome-webfont.ttf","mtime":"2016-04-15T16:40:24-05:00","size":142072,"digest":"7b5a4320fba0d4c8f79327645b4b9cc875a2ec617a557e849b813918eb733499","integrity":"sha256-e1pDIPug1Mj3kydkW0ucyHWi7GF6VX6Em4E5GOtzNJk="},"font-awesome/fontawesome-webfont-c812ddc9e475d3e65d68a6b3b589ce598a2a5babb7afc55477d59215c4a38a40.woff":{"logical_path":"font-awesome/fontawesome-webfont.woff","mtime":"2016-04-15T16:40:24-05:00","size":83588,"digest":"c812ddc9e475d3e65d68a6b3b589ce598a2a5babb7afc55477d59215c4a38a40","integrity":"sha256-yBLdyeR10+ZdaKaztYnOWYoqW6u3r8VUd9WSFcSjikA="},"font-awesome/fontawesome-webfont-ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995.woff2":{"logical_path":"font-awesome/fontawesome-webfont.woff2","mtime":"2016-04-15T16:40:24-05:00","size":66624,"digest":"ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995","integrity":"sha256-/4Ku7WubtnAWlshNGyI9Lmgut4yJEXpDjObP6oxJiZU="}},"assets":{"ionicons.eot":"ionicons-a4803d7bdeb478a5b9238fe74d8aaa98dafe2e8e68fccbd0e3f4dced823f27f0.eot","ionicons.svg":"ionicons-a627d9068c1235d9b3c95c405eb6ecb64a290b159cf5e926c0d96d89b24cd5fc.svg","ionicons.ttf":"ionicons-2ba7f20b1d8990e17a47fe3d88e4c766628aaa2baf1dd30fca0a0db59836f5f9.ttf","ionicons.woff":"ionicons-709f2789daaff440820ebb975d3ae409af45121bdec47e39e83523490b1bc0fc.woff","0.jpg":"0-af2cca04f73391027b2d876721c84040ba60015d9e8a74a32729d7bdedbca026.jpg","1.jpg":"1-5af092e8c8c3c40ecf3062bd18491fdd87ba1e0da1c88920c25c3d8854a207b8.jpg","2.jpg":"2-53c505f348cd171bfb4f0cd1ab0ead087e7329931fb8540c76205ba943a8916d.jpg","3.jpg":"3-733b5b96139fb4e7dd8c4f135fb4ca81069136fa3df4242f93e8e6fd7f8da891.jpg","4.jpg":"4-521ca70eefff265c4d85ddf713acbb6608551423924735b38cbcb5e9488e6e90.jpg","5.jpg":"5-a5a668944c9a353919af3dbf6b19dd1a12677d504575f95dffe80ac1f251c4ea.jpg","DSC_1103.JPG":"DSC_1103-1f762d1db241c1ab7f7be5e05ab25ec33b634faae01002d442bf3c032474fa83.JPG","Developer_Film Maker Gee.JPG":"Developer_Film Maker Gee-7647c79494d474cc8fec7fdb93fab88205483175e032bfab17cc6d85253d969f.JPG","Gee.JPG":"Gee-0838e4aa826f8c1ccc0d2b18358e95951fb65263e0380328502eef58d69d4578.JPG","YungBria.jpg":"YungBria-b596dc33baf91b046ff0d49544cf047473afe3d9b43bb8c36053f14c8f24b00d.jpg","avatar1.jpg":"avatar1-59b890324361d54063469681226a7cc96b5fe32482ee78971e45cbd1e095b656.jpg","avatar2.jpg":"avatar2-739570d595e7d5689980cc7e68a1c0ef48ce40fda37fa6ca6eccf449ee6b007d.jpg","avatar3.jpg":"avatar3-f8b6f8ad1bd336c7a16f19c71cd27c5690a08f64b62533fc2bfd0fe451097dd9.jpg","avatar4.jpg":"avatar4-76086a9cd77cddd969b1c69a92fcfab0c6b14baaf9b6e7918bdfbb248734de04.jpg","loader.gif":"loader-508f8275f35ec769815fa1e30d3339873a3d11fbac65326bd467ceb9561c479e.gif","logo.png":"logo-4a953aff16b410fafe683f4dbc21cc90763ff2b7226561098fbd7baefa88b0c6.png","logo1.png":"logo1-7a123ffc8d11c0d5b40c77f837cb8c639dbe1f13db9f61b6c2f6971c5009fcee.png","logo2.png":"logo2-97fd2119c51c2c71ef04e7a427b82457b7e75af627d0f9a829d99cda67a1f17f.png","logo3.png":"logo3-f6cc3532444f28212ede23fd87eee7be0df210a05e639feae2208fed4d839da5.png","logo4.png":"logo4-25bddd38ccec9b803be8fa3e141e4feb4570065db4b6866670d0fbf8313cc1f1.png","logo5.png":"logo5-f569abfcc356ecb22c0ca3503fe4f91d0a8b1ffd57a07faa822bced54fb79e7e.png","application.js":"application-2b6c40351ae6748d5f491ef865f6dac68c778a956a19b9d80e87e0b3a8075c22.js","vegas/overlays/01.png":"vegas/overlays/01-5ddb13e84c10a1b7a773f0580f2997c3b5e91d1c2227fc1313c5991429442657.png","vegas/overlays/02.png":"vegas/overlays/02-c8afad923ad12f782c6cb53563b0335fd8aa317f3a5814d88b79b19f5679b3bb.png","vegas/overlays/03.png":"vegas/overlays/03-021c7caa7ff149c146699ef36babf141e219dba3164ad790ca01671b8bd2ddac.png","vegas/overlays/04.png":"vegas/overlays/04-aec578846c14373efb19b86568aa26a7bda6a8190c2ba024f157dd8169584aab.png","vegas/overlays/05.png":"vegas/overlays/05-174d12c6dad717d57e3fc10afd45cba4694ceeab0501f1b42dec153f60af7e26.png","vegas/overlays/06.png":"vegas/overlays/06-5132930f761724e07ade77c2ee61c0d4a9c68500f1370a078acfcecff86f1034.png","vegas/overlays/07.png":"vegas/overlays/07-7cac752f182428a3780fb961447d803b6a51a3ca2f76e3da10fdb53096255a4e.png","vegas/overlays/08.png":"vegas/overlays/08-fe02d70713812b91ccd804366c80b40d2f2f8f1f048944e36bce1fd591b850d2.png","vegas/overlays/09.png":"vegas/overlays/09-171c728935cc65ccdac105d28992f0020e968598eab1798983bb7973e40272aa.png","vegas/vegas.min.js.map":"vegas/vegas.min.js-1d4597c115fac7529d6a2543a29efbfc761abd29a3d019601507e0499145c08f.map","application.css":"application-13fdc5fed1f5096e997418758b8b0b2e899d90026d2eb8b8b8537ab844b42106.css","font-awesome/fontawesome-webfont.eot":"font-awesome/fontawesome-webfont-e219ece8f4d3e4ac455ef31cd3a7c7b5057ea68a109937fc26b03c6e99ee9322.eot","font-awesome/fontawesome-webfont.svg":"font-awesome/fontawesome-webfont-d67041fe5d50eef9ef671643968f7ce6b130eaaaaa2ce4d496b18d0a33aeb87b.svg","font-awesome/fontawesome-webfont.ttf":"font-awesome/fontawesome-webfont-7b5a4320fba0d4c8f79327645b4b9cc875a2ec617a557e849b813918eb733499.ttf","font-awesome/fontawesome-webfont.woff":"font-awesome/fontawesome-webfont-c812ddc9e475d3e65d68a6b3b589ce598a2a5babb7afc55477d59215c4a38a40.woff","font-awesome/fontawesome-webfont.woff2":"font-awesome/fontawesome-webfont-ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995.woff2"}}
+{
+  "files": {
+    "ionicons-a4803d7bdeb478a5b9238fe74d8aaa98dafe2e8e68fccbd0e3f4dced823f27f0.eot": {
+      "logical_path": "ionicons.eot",
+      "mtime": "2015-01-03T11:02:30-06:00",
+      "size": 120724,
+      "digest": "a4803d7bdeb478a5b9238fe74d8aaa98dafe2e8e68fccbd0e3f4dced823f27f0",
+      "integrity": "sha256-pIA9e960eKW5I4/nTYqqmNr+Lo5o/MvQ4/Tc7YI/J/A="
+    },
+    "ionicons-a627d9068c1235d9b3c95c405eb6ecb64a290b159cf5e926c0d96d89b24cd5fc.svg": {
+      "logical_path": "ionicons.svg",
+      "mtime": "2015-01-03T11:02:30-06:00",
+      "size": 333834,
+      "digest": "a627d9068c1235d9b3c95c405eb6ecb64a290b159cf5e926c0d96d89b24cd5fc",
+      "integrity": "sha256-pifZBowSNdmzyVxAXrbstkopCxWc9ekmwNltibJM1fw="
+    },
+    "ionicons-2ba7f20b1d8990e17a47fe3d88e4c766628aaa2baf1dd30fca0a0db59836f5f9.ttf": {
+      "logical_path": "ionicons.ttf",
+      "mtime": "2015-01-03T11:02:30-06:00",
+      "size": 188508,
+      "digest": "2ba7f20b1d8990e17a47fe3d88e4c766628aaa2baf1dd30fca0a0db59836f5f9",
+      "integrity": "sha256-K6fyCx2JkOF6R/49iOTHZmKKqiuvHdMPygoNtZg29fk="
+    },
+    "ionicons-709f2789daaff440820ebb975d3ae409af45121bdec47e39e83523490b1bc0fc.woff": {
+      "logical_path": "ionicons.woff",
+      "mtime": "2015-01-03T11:02:30-06:00",
+      "size": 67904,
+      "digest": "709f2789daaff440820ebb975d3ae409af45121bdec47e39e83523490b1bc0fc",
+      "integrity": "sha256-cJ8nidqv9ECCDruXXTrkCa9FEhvexH456DUjSQsbwPw="
+    },
+    "0-af2cca04f73391027b2d876721c84040ba60015d9e8a74a32729d7bdedbca026.jpg": {
+      "logical_path": "0.jpg",
+      "mtime": "2015-09-03T16:26:00-05:00",
+      "size": 56535,
+      "digest": "af2cca04f73391027b2d876721c84040ba60015d9e8a74a32729d7bdedbca026",
+      "integrity": "sha256-ryzKBPczkQJ7LYdnIchAQLpgAV2einSjJynXve28oCY="
+    },
+    "1-5af092e8c8c3c40ecf3062bd18491fdd87ba1e0da1c88920c25c3d8854a207b8.jpg": {
+      "logical_path": "1.jpg",
+      "mtime": "2015-09-03T16:26:00-05:00",
+      "size": 120425,
+      "digest": "5af092e8c8c3c40ecf3062bd18491fdd87ba1e0da1c88920c25c3d8854a207b8",
+      "integrity": "sha256-WvCS6MjDxA7PMGK9GEkf3Ye6Hg2hyIkgwlw9iFSiB7g="
+    },
+    "2-53c505f348cd171bfb4f0cd1ab0ead087e7329931fb8540c76205ba943a8916d.jpg": {
+      "logical_path": "2.jpg",
+      "mtime": "2015-09-03T16:26:00-05:00",
+      "size": 212587,
+      "digest": "53c505f348cd171bfb4f0cd1ab0ead087e7329931fb8540c76205ba943a8916d",
+      "integrity": "sha256-U8UF80jNFxv7TwzRqw6tCH5zKZMfuFQMdiBbqUOokW0="
+    },
+    "3-733b5b96139fb4e7dd8c4f135fb4ca81069136fa3df4242f93e8e6fd7f8da891.jpg": {
+      "logical_path": "3.jpg",
+      "mtime": "2015-09-03T16:26:00-05:00",
+      "size": 277633,
+      "digest": "733b5b96139fb4e7dd8c4f135fb4ca81069136fa3df4242f93e8e6fd7f8da891",
+      "integrity": "sha256-cztblhOftOfdjE8TX7TKgQaRNvo99CQvk+jm/X+NqJE="
+    },
+    "4-521ca70eefff265c4d85ddf713acbb6608551423924735b38cbcb5e9488e6e90.jpg": {
+      "logical_path": "4.jpg",
+      "mtime": "2015-09-03T16:25:58-05:00",
+      "size": 161102,
+      "digest": "521ca70eefff265c4d85ddf713acbb6608551423924735b38cbcb5e9488e6e90",
+      "integrity": "sha256-UhynDu//JlxNhd33E6y7ZghVFCOSRzWzjLy16UiObpA="
+    },
+    "5-a5a668944c9a353919af3dbf6b19dd1a12677d504575f95dffe80ac1f251c4ea.jpg": {
+      "logical_path": "5.jpg",
+      "mtime": "2015-09-03T16:25:58-05:00",
+      "size": 206407,
+      "digest": "a5a668944c9a353919af3dbf6b19dd1a12677d504575f95dffe80ac1f251c4ea",
+      "integrity": "sha256-paZolEyaNTkZrz2/axndGhJnfVBFdfld/+gKwfJRxOo="
+    },
+    "DSC_1103-1f762d1db241c1ab7f7be5e05ab25ec33b634faae01002d442bf3c032474fa83.JPG": {
+      "logical_path": "DSC_1103.JPG",
+      "mtime": "2016-05-07T00:36:48-05:00",
+      "size": 6623716,
+      "digest": "1f762d1db241c1ab7f7be5e05ab25ec33b634faae01002d442bf3c032474fa83",
+      "integrity": "sha256-H3YtHbJBwat/e+XgWrJewztjT6rgEALUQr88AyR0+oM="
+    },
+    "Developer_Film Maker Gee-7647c79494d474cc8fec7fdb93fab88205483175e032bfab17cc6d85253d969f.JPG": {
+      "logical_path": "Developer_Film Maker Gee.JPG",
+      "mtime": "2016-05-07T00:36:28-05:00",
+      "size": 6142916,
+      "digest": "7647c79494d474cc8fec7fdb93fab88205483175e032bfab17cc6d85253d969f",
+      "integrity": "sha256-dkfHlJTUdMyP7H/bk/q4ggVIMXXgMr+rF8xthSU9lp8="
+    },
+    "Gee-0838e4aa826f8c1ccc0d2b18358e95951fb65263e0380328502eef58d69d4578.JPG": {
+      "logical_path": "Gee.JPG",
+      "mtime": "2016-05-07T00:36:30-05:00",
+      "size": 6605974,
+      "digest": "0838e4aa826f8c1ccc0d2b18358e95951fb65263e0380328502eef58d69d4578",
+      "integrity": "sha256-CDjkqoJvjBzMDSsYNY6VlR+2UmPgOAMoUC7vWNadRXg="
+    },
+    "YungBria-b596dc33baf91b046ff0d49544cf047473afe3d9b43bb8c36053f14c8f24b00d.jpg": {
+      "logical_path": "YungBria.jpg",
+      "mtime": "2016-05-09T13:02:30-05:00",
+      "size": 1004718,
+      "digest": "b596dc33baf91b046ff0d49544cf047473afe3d9b43bb8c36053f14c8f24b00d",
+      "integrity": "sha256-tZbcM7r5GwRv8NSVRM8EdHOv49m0O7jDYFPxTI8ksA0="
+    },
+    "avatar1-59b890324361d54063469681226a7cc96b5fe32482ee78971e45cbd1e095b656.jpg": {
+      "logical_path": "avatar1.jpg",
+      "mtime": "2015-09-03T16:25:58-05:00",
+      "size": 21920,
+      "digest": "59b890324361d54063469681226a7cc96b5fe32482ee78971e45cbd1e095b656",
+      "integrity": "sha256-WbiQMkNh1UBjRpaBImp8yWtf4ySC7niXHkXL0eCVtlY="
+    },
+    "avatar2-739570d595e7d5689980cc7e68a1c0ef48ce40fda37fa6ca6eccf449ee6b007d.jpg": {
+      "logical_path": "avatar2.jpg",
+      "mtime": "2015-09-03T16:26:00-05:00",
+      "size": 17778,
+      "digest": "739570d595e7d5689980cc7e68a1c0ef48ce40fda37fa6ca6eccf449ee6b007d",
+      "integrity": "sha256-c5Vw1ZXn1WiZgMx+aKHA70jOQP2jf6bKbsz0Se5rAH0="
+    },
+    "avatar3-f8b6f8ad1bd336c7a16f19c71cd27c5690a08f64b62533fc2bfd0fe451097dd9.jpg": {
+      "logical_path": "avatar3.jpg",
+      "mtime": "2015-09-03T16:26:00-05:00",
+      "size": 38049,
+      "digest": "f8b6f8ad1bd336c7a16f19c71cd27c5690a08f64b62533fc2bfd0fe451097dd9",
+      "integrity": "sha256-+Lb4rRvTNsehbxnHHNJ8VpCgj2S2JTP8K/0P5FEJfdk="
+    },
+    "avatar4-76086a9cd77cddd969b1c69a92fcfab0c6b14baaf9b6e7918bdfbb248734de04.jpg": {
+      "logical_path": "avatar4.jpg",
+      "mtime": "2015-09-03T16:26:00-05:00",
+      "size": 34088,
+      "digest": "76086a9cd77cddd969b1c69a92fcfab0c6b14baaf9b6e7918bdfbb248734de04",
+      "integrity": "sha256-dghqnNd83dlpscaakvz6sMaxS6r5tueRi9+7JIc03gQ="
+    },
+    "loader-508f8275f35ec769815fa1e30d3339873a3d11fbac65326bd467ceb9561c479e.gif": {
+      "logical_path": "loader.gif",
+      "mtime": "2015-05-07T20:08:40-05:00",
+      "size": 38957,
+      "digest": "508f8275f35ec769815fa1e30d3339873a3d11fbac65326bd467ceb9561c479e",
+      "integrity": "sha256-UI+CdfNex2mBX6HjDTM5hzo9EfusZTJr1GfOuVYcR54="
+    },
+    "logo-4a953aff16b410fafe683f4dbc21cc90763ff2b7226561098fbd7baefa88b0c6.png": {
+      "logical_path": "logo.png",
+      "mtime": "2015-06-07T11:47:00-05:00",
+      "size": 33603,
+      "digest": "4a953aff16b410fafe683f4dbc21cc90763ff2b7226561098fbd7baefa88b0c6",
+      "integrity": "sha256-SpU6/xa0EPr+aD9NvCHMkHY/8rciZWEJj717rvqIsMY="
+    },
+    "logo1-7a123ffc8d11c0d5b40c77f837cb8c639dbe1f13db9f61b6c2f6971c5009fcee.png": {
+      "logical_path": "logo1.png",
+      "mtime": "2015-05-28T12:21:10-05:00",
+      "size": 3570,
+      "digest": "7a123ffc8d11c0d5b40c77f837cb8c639dbe1f13db9f61b6c2f6971c5009fcee",
+      "integrity": "sha256-ehI//I0RwNW0DHf4N8uMY52+HxPbn2G2wvaXHFAJ/O4="
+    },
+    "logo2-97fd2119c51c2c71ef04e7a427b82457b7e75af627d0f9a829d99cda67a1f17f.png": {
+      "logical_path": "logo2.png",
+      "mtime": "2015-05-28T12:21:16-05:00",
+      "size": 2356,
+      "digest": "97fd2119c51c2c71ef04e7a427b82457b7e75af627d0f9a829d99cda67a1f17f",
+      "integrity": "sha256-l/0hGcUcLHHvBOekJ7gkV7fnWvYn0PmoKdmc2meh8X8="
+    },
+    "logo3-f6cc3532444f28212ede23fd87eee7be0df210a05e639feae2208fed4d839da5.png": {
+      "logical_path": "logo3.png",
+      "mtime": "2015-05-28T12:21:22-05:00",
+      "size": 2968,
+      "digest": "f6cc3532444f28212ede23fd87eee7be0df210a05e639feae2208fed4d839da5",
+      "integrity": "sha256-9sw1MkRPKCEu3iP9h+7nvg3yEKBeY5/q4iCP7U2DnaU="
+    },
+    "logo4-25bddd38ccec9b803be8fa3e141e4feb4570065db4b6866670d0fbf8313cc1f1.png": {
+      "logical_path": "logo4.png",
+      "mtime": "2015-05-28T12:21:26-05:00",
+      "size": 4294,
+      "digest": "25bddd38ccec9b803be8fa3e141e4feb4570065db4b6866670d0fbf8313cc1f1",
+      "integrity": "sha256-Jb3dOMzsm4A76Po+FB5P60VwBl20toZmcND7+DE8wfE="
+    },
+    "logo5-f569abfcc356ecb22c0ca3503fe4f91d0a8b1ffd57a07faa822bced54fb79e7e.png": {
+      "logical_path": "logo5.png",
+      "mtime": "2015-05-28T12:21:32-05:00",
+      "size": 3057,
+      "digest": "f569abfcc356ecb22c0ca3503fe4f91d0a8b1ffd57a07faa822bced54fb79e7e",
+      "integrity": "sha256-9Wmr/MNW7LIsDKNQP+T5HQqLH/1XoH+qgivO1U+3nn4="
+    },
+    "application-2b6c40351ae6748d5f491ef865f6dac68c778a956a19b9d80e87e0b3a8075c22.js": {
+      "logical_path": "application.js",
+      "mtime": "2016-05-12T01:44:10-05:00",
+      "size": 142836,
+      "digest": "2b6c40351ae6748d5f491ef865f6dac68c778a956a19b9d80e87e0b3a8075c22",
+      "integrity": "sha256-K2xANRrmdI1fSR74Zfbaxox3ipVqGbnYDofgs6gHXCI="
+    },
+    "vegas/overlays/01-5ddb13e84c10a1b7a773f0580f2997c3b5e91d1c2227fc1313c5991429442657.png": {
+      "logical_path": "vegas/overlays/01.png",
+      "mtime": "2015-10-29T15:18:18-05:00",
+      "size": 211,
+      "digest": "5ddb13e84c10a1b7a773f0580f2997c3b5e91d1c2227fc1313c5991429442657",
+      "integrity": "sha256-XdsT6EwQobenc/BYDymXw7XpHRwiJ/wTE8WZFClEJlc="
+    },
+    "vegas/overlays/02-c8afad923ad12f782c6cb53563b0335fd8aa317f3a5814d88b79b19f5679b3bb.png": {
+      "logical_path": "vegas/overlays/02.png",
+      "mtime": "2015-10-29T15:18:18-05:00",
+      "size": 213,
+      "digest": "c8afad923ad12f782c6cb53563b0335fd8aa317f3a5814d88b79b19f5679b3bb",
+      "integrity": "sha256-yK+tkjrRL3gsbLU1Y7AzX9iqMX86WBTYi3mxn1Z5s7s="
+    },
+    "vegas/overlays/03-021c7caa7ff149c146699ef36babf141e219dba3164ad790ca01671b8bd2ddac.png": {
+      "logical_path": "vegas/overlays/03.png",
+      "mtime": "2015-10-29T15:18:18-05:00",
+      "size": 209,
+      "digest": "021c7caa7ff149c146699ef36babf141e219dba3164ad790ca01671b8bd2ddac",
+      "integrity": "sha256-Ahx8qn/xScFGaZ7za6vxQeIZ26MWSteQygFnG4vS3aw="
+    },
+    "vegas/overlays/04-aec578846c14373efb19b86568aa26a7bda6a8190c2ba024f157dd8169584aab.png": {
+      "logical_path": "vegas/overlays/04.png",
+      "mtime": "2015-10-29T15:18:18-05:00",
+      "size": 211,
+      "digest": "aec578846c14373efb19b86568aa26a7bda6a8190c2ba024f157dd8169584aab",
+      "integrity": "sha256-rsV4hGwUNz77GbhlaKomp72mqBkMK6Ak8VfdgWlYSqs="
+    },
+    "vegas/overlays/05-174d12c6dad717d57e3fc10afd45cba4694ceeab0501f1b42dec153f60af7e26.png": {
+      "logical_path": "vegas/overlays/05.png",
+      "mtime": "2015-10-29T15:18:18-05:00",
+      "size": 213,
+      "digest": "174d12c6dad717d57e3fc10afd45cba4694ceeab0501f1b42dec153f60af7e26",
+      "integrity": "sha256-F00SxtrXF9V+P8EK/UXLpGlM7qsFAfG0LewVP2CvfiY="
+    },
+    "vegas/overlays/06-5132930f761724e07ade77c2ee61c0d4a9c68500f1370a078acfcecff86f1034.png": {
+      "logical_path": "vegas/overlays/06.png",
+      "mtime": "2015-10-29T15:18:18-05:00",
+      "size": 211,
+      "digest": "5132930f761724e07ade77c2ee61c0d4a9c68500f1370a078acfcecff86f1034",
+      "integrity": "sha256-UTKTD3YXJOB63nfC7mHA1KnGhQDxNwoHis/Oz/hvEDQ="
+    },
+    "vegas/overlays/07-7cac752f182428a3780fb961447d803b6a51a3ca2f76e3da10fdb53096255a4e.png": {
+      "logical_path": "vegas/overlays/07.png",
+      "mtime": "2015-10-29T15:18:18-05:00",
+      "size": 215,
+      "digest": "7cac752f182428a3780fb961447d803b6a51a3ca2f76e3da10fdb53096255a4e",
+      "integrity": "sha256-fKx1LxgkKKN4D7lhRH2AO2pRo8ovduPaEP21MJYlWk4="
+    },
+    "vegas/overlays/08-fe02d70713812b91ccd804366c80b40d2f2f8f1f048944e36bce1fd591b850d2.png": {
+      "logical_path": "vegas/overlays/08.png",
+      "mtime": "2015-10-29T15:18:18-05:00",
+      "size": 146,
+      "digest": "fe02d70713812b91ccd804366c80b40d2f2f8f1f048944e36bce1fd591b850d2",
+      "integrity": "sha256-/gLXBxOBK5HM2AQ2bIC0DS8vjx8EiUTja84f1ZG4UNI="
+    },
+    "vegas/overlays/09-171c728935cc65ccdac105d28992f0020e968598eab1798983bb7973e40272aa.png": {
+      "logical_path": "vegas/overlays/09.png",
+      "mtime": "2015-10-29T15:18:18-05:00",
+      "size": 137,
+      "digest": "171c728935cc65ccdac105d28992f0020e968598eab1798983bb7973e40272aa",
+      "integrity": "sha256-FxxyiTXMZczawQXSiZLwAg6WhZjqsXmJg7t5c+QCcqo="
+    },
+    "vegas/vegas.min.js-1d4597c115fac7529d6a2543a29efbfc761abd29a3d019601507e0499145c08f.map": {
+      "logical_path": "vegas/vegas.min.js.map",
+      "mtime": "2016-05-11T13:36:39-05:00",
+      "size": 33182,
+      "digest": "1d4597c115fac7529d6a2543a29efbfc761abd29a3d019601507e0499145c08f",
+      "integrity": "sha256-HUWXwRX6x1KdaiVDop77/HYavSmj0BlgFQfgSZFFwI8="
+    },
+    "application-13fdc5fed1f5096e997418758b8b0b2e899d90026d2eb8b8b8537ab844b42106.css": {
+      "logical_path": "application.css",
+      "mtime": "2016-05-12T01:44:10-05:00",
+      "size": 310112,
+      "digest": "13fdc5fed1f5096e997418758b8b0b2e899d90026d2eb8b8b8537ab844b42106",
+      "integrity": "sha256-E/3F/tH1CW6ZdBh1i4sLLomdkAJtLri4uFN6uES0IQY="
+    },
+    "font-awesome/fontawesome-webfont-e219ece8f4d3e4ac455ef31cd3a7c7b5057ea68a109937fc26b03c6e99ee9322.eot": {
+      "logical_path": "font-awesome/fontawesome-webfont.eot",
+      "mtime": "2016-04-15T16:40:24-05:00",
+      "size": 70807,
+      "digest": "e219ece8f4d3e4ac455ef31cd3a7c7b5057ea68a109937fc26b03c6e99ee9322",
+      "integrity": "sha256-4hns6PTT5KxFXvMc06fHtQV+pooQmTf8JrA8bpnukyI="
+    },
+    "font-awesome/fontawesome-webfont-d67041fe5d50eef9ef671643968f7ce6b130eaaaaa2ce4d496b18d0a33aeb87b.svg": {
+      "logical_path": "font-awesome/fontawesome-webfont.svg",
+      "mtime": "2016-04-15T16:40:24-05:00",
+      "size": 365616,
+      "digest": "d67041fe5d50eef9ef671643968f7ce6b130eaaaaa2ce4d496b18d0a33aeb87b",
+      "integrity": "sha256-1nBB/l1Q7vnvZxZDlo985rEw6qqqLOTUlrGNCjOuuHs="
+    },
+    "font-awesome/fontawesome-webfont-7b5a4320fba0d4c8f79327645b4b9cc875a2ec617a557e849b813918eb733499.ttf": {
+      "logical_path": "font-awesome/fontawesome-webfont.ttf",
+      "mtime": "2016-04-15T16:40:24-05:00",
+      "size": 142072,
+      "digest": "7b5a4320fba0d4c8f79327645b4b9cc875a2ec617a557e849b813918eb733499",
+      "integrity": "sha256-e1pDIPug1Mj3kydkW0ucyHWi7GF6VX6Em4E5GOtzNJk="
+    },
+    "font-awesome/fontawesome-webfont-c812ddc9e475d3e65d68a6b3b589ce598a2a5babb7afc55477d59215c4a38a40.woff": {
+      "logical_path": "font-awesome/fontawesome-webfont.woff",
+      "mtime": "2016-04-15T16:40:24-05:00",
+      "size": 83588,
+      "digest": "c812ddc9e475d3e65d68a6b3b589ce598a2a5babb7afc55477d59215c4a38a40",
+      "integrity": "sha256-yBLdyeR10+ZdaKaztYnOWYoqW6u3r8VUd9WSFcSjikA="
+    },
+    "font-awesome/fontawesome-webfont-ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995.woff2": {
+      "logical_path": "font-awesome/fontawesome-webfont.woff2",
+      "mtime": "2016-04-15T16:40:24-05:00",
+      "size": 66624,
+      "digest": "ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995",
+      "integrity": "sha256-/4Ku7WubtnAWlshNGyI9Lmgut4yJEXpDjObP6oxJiZU="
+    },
+    "bootstrap.min-3737212070e879a397eaf190b7c97fcb2bf07b7ef3fe97fde7502104c067c8e8.css": {
+      "logical_path": "bootstrap.min.css",
+      "mtime": "2016-05-11T19:08:16-05:00",
+      "size": 120964,
+      "digest": "3737212070e879a397eaf190b7c97fcb2bf07b7ef3fe97fde7502104c067c8e8",
+      "integrity": "sha256-NzchIHDoeaOX6vGQt8l/yyvwe37z/pf951AhBMBnyOg="
+    },
+    "font-awesome.min-f2b2fcc8ae75da67864630a96d158e3fae94517f730a3866459d2e8c8783a42f.css": {
+      "logical_path": "font-awesome.min.css",
+      "mtime": "2016-05-10T00:55:40-05:00",
+      "size": 21240,
+      "digest": "f2b2fcc8ae75da67864630a96d158e3fae94517f730a3866459d2e8c8783a42f",
+      "integrity": "sha256-8rL8yK512meGRjCpbRWOP66UUX9zCjhmRZ0ujIeDpC8="
+    },
+    "ionicons.min-cc5ce0b3a9e260479777024f822ce5117ee1dfd0131ebdb52b11ba69997ca42a.css": {
+      "logical_path": "ionicons.min.css",
+      "mtime": "2016-05-11T13:36:39-05:00",
+      "size": 49974,
+      "digest": "cc5ce0b3a9e260479777024f822ce5117ee1dfd0131ebdb52b11ba69997ca42a",
+      "integrity": "sha256-zFzgs6niYEeXdwJPgizlEX7h39ATHr21KxG6aZl8pCo="
+    },
+    "animate.min-c4c23e8f88ff28f72a41aeaccf6ebf50e779d6582af7e4a8e9d910138c9df6e0.css": {
+      "logical_path": "animate.min.css",
+      "mtime": "2016-05-10T00:55:40-05:00",
+      "size": 57762,
+      "digest": "c4c23e8f88ff28f72a41aeaccf6ebf50e779d6582af7e4a8e9d910138c9df6e0",
+      "integrity": "sha256-xMI+j4j/KPcqQa6sz26/UOd51lgq9+So6dkQE4yd9uA="
+    },
+    "vegas.min-0066df06ea4e6b4b16a388d12161ee7035ad119bf5040ca741a6183c9a0527b5.css": {
+      "logical_path": "vegas.min.css",
+      "mtime": "2016-05-12T13:28:20-05:00",
+      "size": 10110,
+      "digest": "0066df06ea4e6b4b16a388d12161ee7035ad119bf5040ca741a6183c9a0527b5",
+      "integrity": "sha256-AGbfBupOa0sWo4jRIWHucDWtEZv1BAynQaYYPJoFJ7U="
+    },
+    "csoon-a642d9820218f90aec969ec2cf9de079476bfb47a2bf8b2eec0161aea90651bb.css": {
+      "logical_path": "csoon.css",
+      "mtime": "2016-05-11T21:06:25-05:00",
+      "size": 7542,
+      "digest": "a642d9820218f90aec969ec2cf9de079476bfb47a2bf8b2eec0161aea90651bb",
+      "integrity": "sha256-pkLZggIY+Qrslp7Cz53geUdr+0eiv4su7AFhrqkGUbs="
+    },
+    "jquery.easing.min-d06d5e2c315f18fec7b22bb706ba798d2dfffc270ec6e66ec91790b89b0b05dd.js": {
+      "logical_path": "jquery.easing.min.js",
+      "mtime": "2015-04-08T22:30:44-05:00",
+      "size": 5301,
+      "digest": "d06d5e2c315f18fec7b22bb706ba798d2dfffc270ec6e66ec91790b89b0b05dd",
+      "integrity": "sha256-0G1eLDFfGP7Hsiu3Brp5jS3//CcOxuZuyReQuJsLBd0="
+    },
+    "jquery.countdown.min-ba9b85223a6c43d080dc356111b73baae7cce0719cd5f5d2486d28f4c7537596.js": {
+      "logical_path": "jquery.countdown.min.js",
+      "mtime": "2014-06-03T16:09:40-05:00",
+      "size": 4552,
+      "digest": "ba9b85223a6c43d080dc356111b73baae7cce0719cd5f5d2486d28f4c7537596",
+      "integrity": "sha256-upuFIjpsQ9CA3DVhEbc7qufM4HGc1fXSSG0o9MdTdZY="
+    },
+    "device.min-f05ce74cd5ccc4e4e47753607d051435e5f8dfdd24b5a5c16f0f4ebf3babee05.js": {
+      "logical_path": "device.min.js",
+      "mtime": "2016-05-11T13:36:39-05:00",
+      "size": 2881,
+      "digest": "f05ce74cd5ccc4e4e47753607d051435e5f8dfdd24b5a5c16f0f4ebf3babee05",
+      "integrity": "sha256-8FznTNXMxOTkd1NgfQUUNeX4390ktaXBbw9Ovzur7gU="
+    },
+    "wow.min-e6b109189f919747643b60dabde4907c0dd89ad3851f18398f1b059e37e70018.js": {
+      "logical_path": "wow.min.js",
+      "mtime": "2016-05-11T13:36:39-05:00",
+      "size": 7084,
+      "digest": "e6b109189f919747643b60dabde4907c0dd89ad3851f18398f1b059e37e70018",
+      "integrity": "sha256-5rEJGJ+Rl0dkO2DaveSQfA3YmtOFHxg5jxsFnjfnABg="
+    },
+    "smoothscroll-8f6349a8bae7ea7aa9e7386f8647299befe23ddfa8b35ed1791fb26b933b0f0f.js": {
+      "logical_path": "smoothscroll.js",
+      "mtime": "2016-05-11T13:36:39-05:00",
+      "size": 4436,
+      "digest": "8f6349a8bae7ea7aa9e7386f8647299befe23ddfa8b35ed1791fb26b933b0f0f",
+      "integrity": "sha256-j2NJqLrn6nqp5zhvhkcpm+/iPd+os17ReR+ya5M7Dw8="
+    },
+    "form-9b9a75c66b3476e407c09de667c53bd99f000a4f4acb3b08f600de09e2e5036e.js": {
+      "logical_path": "form.js",
+      "mtime": "2016-05-11T13:36:39-05:00",
+      "size": 16641,
+      "digest": "9b9a75c66b3476e407c09de667c53bd99f000a4f4acb3b08f600de09e2e5036e",
+      "integrity": "sha256-m5p1xms0duQHwJ3mZ8U72Z8ACk9KyzsI9gDeCeLlA24="
+    },
+    "jquery.placeholder.min-c20844985571a40f9b49ef1c352ce8cb8c4d04216d47d174137eaddc0bb4bea3.js": {
+      "logical_path": "jquery.placeholder.min.js",
+      "mtime": "2015-05-07T20:06:12-05:00",
+      "size": 2610,
+      "digest": "c20844985571a40f9b49ef1c352ce8cb8c4d04216d47d174137eaddc0bb4bea3",
+      "integrity": "sha256-wghEmFVxpA+bSe8cNSzoy4xNBCFtR9F0E36t3Au0vqM="
+    },
+    "application-8ee873c6e2a1a88ff74227d6e6dd7766bc972ec4ba3f331deb4956159ef41daa.js": {
+      "logical_path": "application.js",
+      "mtime": "2016-05-12T13:28:20-05:00",
+      "size": 118135,
+      "digest": "8ee873c6e2a1a88ff74227d6e6dd7766bc972ec4ba3f331deb4956159ef41daa",
+      "integrity": "sha256-juhzxuKhqI/3QifW5t13ZryXLsS6PzMd60lWFZ70Hao="
+    },
+    "application-afcbf6721d6a2d4ad9c68278ffbfe2df0d488395f19a0ca5a033f30c0bedc7da.css": {
+      "logical_path": "application.css",
+      "mtime": "2016-05-12T13:28:20-05:00",
+      "size": 278158,
+      "digest": "afcbf6721d6a2d4ad9c68278ffbfe2df0d488395f19a0ca5a033f30c0bedc7da",
+      "integrity": "sha256-r8v2ch1qLUrZxoJ4/7/i3w1Ig5XxmgyloDPzDAvtx9o="
+    }
+  },
+  "assets": {
+    "ionicons.eot": "ionicons-a4803d7bdeb478a5b9238fe74d8aaa98dafe2e8e68fccbd0e3f4dced823f27f0.eot",
+    "ionicons.svg": "ionicons-a627d9068c1235d9b3c95c405eb6ecb64a290b159cf5e926c0d96d89b24cd5fc.svg",
+    "ionicons.ttf": "ionicons-2ba7f20b1d8990e17a47fe3d88e4c766628aaa2baf1dd30fca0a0db59836f5f9.ttf",
+    "ionicons.woff": "ionicons-709f2789daaff440820ebb975d3ae409af45121bdec47e39e83523490b1bc0fc.woff",
+    "0.jpg": "0-af2cca04f73391027b2d876721c84040ba60015d9e8a74a32729d7bdedbca026.jpg",
+    "1.jpg": "1-5af092e8c8c3c40ecf3062bd18491fdd87ba1e0da1c88920c25c3d8854a207b8.jpg",
+    "2.jpg": "2-53c505f348cd171bfb4f0cd1ab0ead087e7329931fb8540c76205ba943a8916d.jpg",
+    "3.jpg": "3-733b5b96139fb4e7dd8c4f135fb4ca81069136fa3df4242f93e8e6fd7f8da891.jpg",
+    "4.jpg": "4-521ca70eefff265c4d85ddf713acbb6608551423924735b38cbcb5e9488e6e90.jpg",
+    "5.jpg": "5-a5a668944c9a353919af3dbf6b19dd1a12677d504575f95dffe80ac1f251c4ea.jpg",
+    "DSC_1103.JPG": "DSC_1103-1f762d1db241c1ab7f7be5e05ab25ec33b634faae01002d442bf3c032474fa83.JPG",
+    "Developer_Film Maker Gee.JPG": "Developer_Film Maker Gee-7647c79494d474cc8fec7fdb93fab88205483175e032bfab17cc6d85253d969f.JPG",
+    "Gee.JPG": "Gee-0838e4aa826f8c1ccc0d2b18358e95951fb65263e0380328502eef58d69d4578.JPG",
+    "YungBria.jpg": "YungBria-b596dc33baf91b046ff0d49544cf047473afe3d9b43bb8c36053f14c8f24b00d.jpg",
+    "avatar1.jpg": "avatar1-59b890324361d54063469681226a7cc96b5fe32482ee78971e45cbd1e095b656.jpg",
+    "avatar2.jpg": "avatar2-739570d595e7d5689980cc7e68a1c0ef48ce40fda37fa6ca6eccf449ee6b007d.jpg",
+    "avatar3.jpg": "avatar3-f8b6f8ad1bd336c7a16f19c71cd27c5690a08f64b62533fc2bfd0fe451097dd9.jpg",
+    "avatar4.jpg": "avatar4-76086a9cd77cddd969b1c69a92fcfab0c6b14baaf9b6e7918bdfbb248734de04.jpg",
+    "loader.gif": "loader-508f8275f35ec769815fa1e30d3339873a3d11fbac65326bd467ceb9561c479e.gif",
+    "logo.png": "logo-4a953aff16b410fafe683f4dbc21cc90763ff2b7226561098fbd7baefa88b0c6.png",
+    "logo1.png": "logo1-7a123ffc8d11c0d5b40c77f837cb8c639dbe1f13db9f61b6c2f6971c5009fcee.png",
+    "logo2.png": "logo2-97fd2119c51c2c71ef04e7a427b82457b7e75af627d0f9a829d99cda67a1f17f.png",
+    "logo3.png": "logo3-f6cc3532444f28212ede23fd87eee7be0df210a05e639feae2208fed4d839da5.png",
+    "logo4.png": "logo4-25bddd38ccec9b803be8fa3e141e4feb4570065db4b6866670d0fbf8313cc1f1.png",
+    "logo5.png": "logo5-f569abfcc356ecb22c0ca3503fe4f91d0a8b1ffd57a07faa822bced54fb79e7e.png",
+    "application.js": "application-8ee873c6e2a1a88ff74227d6e6dd7766bc972ec4ba3f331deb4956159ef41daa.js",
+    "vegas/overlays/01.png": "vegas/overlays/01-5ddb13e84c10a1b7a773f0580f2997c3b5e91d1c2227fc1313c5991429442657.png",
+    "vegas/overlays/02.png": "vegas/overlays/02-c8afad923ad12f782c6cb53563b0335fd8aa317f3a5814d88b79b19f5679b3bb.png",
+    "vegas/overlays/03.png": "vegas/overlays/03-021c7caa7ff149c146699ef36babf141e219dba3164ad790ca01671b8bd2ddac.png",
+    "vegas/overlays/04.png": "vegas/overlays/04-aec578846c14373efb19b86568aa26a7bda6a8190c2ba024f157dd8169584aab.png",
+    "vegas/overlays/05.png": "vegas/overlays/05-174d12c6dad717d57e3fc10afd45cba4694ceeab0501f1b42dec153f60af7e26.png",
+    "vegas/overlays/06.png": "vegas/overlays/06-5132930f761724e07ade77c2ee61c0d4a9c68500f1370a078acfcecff86f1034.png",
+    "vegas/overlays/07.png": "vegas/overlays/07-7cac752f182428a3780fb961447d803b6a51a3ca2f76e3da10fdb53096255a4e.png",
+    "vegas/overlays/08.png": "vegas/overlays/08-fe02d70713812b91ccd804366c80b40d2f2f8f1f048944e36bce1fd591b850d2.png",
+    "vegas/overlays/09.png": "vegas/overlays/09-171c728935cc65ccdac105d28992f0020e968598eab1798983bb7973e40272aa.png",
+    "vegas/vegas.min.js.map": "vegas/vegas.min.js-1d4597c115fac7529d6a2543a29efbfc761abd29a3d019601507e0499145c08f.map",
+    "application.css": "application-afcbf6721d6a2d4ad9c68278ffbfe2df0d488395f19a0ca5a033f30c0bedc7da.css",
+    "font-awesome/fontawesome-webfont.eot": "font-awesome/fontawesome-webfont-e219ece8f4d3e4ac455ef31cd3a7c7b5057ea68a109937fc26b03c6e99ee9322.eot",
+    "font-awesome/fontawesome-webfont.svg": "font-awesome/fontawesome-webfont-d67041fe5d50eef9ef671643968f7ce6b130eaaaaa2ce4d496b18d0a33aeb87b.svg",
+    "font-awesome/fontawesome-webfont.ttf": "font-awesome/fontawesome-webfont-7b5a4320fba0d4c8f79327645b4b9cc875a2ec617a557e849b813918eb733499.ttf",
+    "font-awesome/fontawesome-webfont.woff": "font-awesome/fontawesome-webfont-c812ddc9e475d3e65d68a6b3b589ce598a2a5babb7afc55477d59215c4a38a40.woff",
+    "font-awesome/fontawesome-webfont.woff2": "font-awesome/fontawesome-webfont-ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995.woff2",
+    "bootstrap.min.css": "bootstrap.min-3737212070e879a397eaf190b7c97fcb2bf07b7ef3fe97fde7502104c067c8e8.css",
+    "font-awesome.min.css": "font-awesome.min-f2b2fcc8ae75da67864630a96d158e3fae94517f730a3866459d2e8c8783a42f.css",
+    "ionicons.min.css": "ionicons.min-cc5ce0b3a9e260479777024f822ce5117ee1dfd0131ebdb52b11ba69997ca42a.css",
+    "animate.min.css": "animate.min-c4c23e8f88ff28f72a41aeaccf6ebf50e779d6582af7e4a8e9d910138c9df6e0.css",
+    "vegas.min.css": "vegas.min-0066df06ea4e6b4b16a388d12161ee7035ad119bf5040ca741a6183c9a0527b5.css",
+    "csoon.css": "csoon-a642d9820218f90aec969ec2cf9de079476bfb47a2bf8b2eec0161aea90651bb.css",
+    "jquery.easing.min.js": "jquery.easing.min-d06d5e2c315f18fec7b22bb706ba798d2dfffc270ec6e66ec91790b89b0b05dd.js",
+    "jquery.countdown.min.js": "jquery.countdown.min-ba9b85223a6c43d080dc356111b73baae7cce0719cd5f5d2486d28f4c7537596.js",
+    "device.min.js": "device.min-f05ce74cd5ccc4e4e47753607d051435e5f8dfdd24b5a5c16f0f4ebf3babee05.js",
+    "wow.min.js": "wow.min-e6b109189f919747643b60dabde4907c0dd89ad3851f18398f1b059e37e70018.js",
+    "smoothscroll.js": "smoothscroll-8f6349a8bae7ea7aa9e7386f8647299befe23ddfa8b35ed1791fb26b933b0f0f.js",
+    "form.js": "form-9b9a75c66b3476e407c09de667c53bd99f000a4f4acb3b08f600de09e2e5036e.js",
+    "jquery.placeholder.min.js": "jquery.placeholder.min-c20844985571a40f9b49ef1c352ce8cb8c4d04216d47d174137eaddc0bb4bea3.js"
+  }
+}

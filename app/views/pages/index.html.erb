@@ -16,7 +16,7 @@
   <%= stylesheet_link_tag 'bootstrap.min.css' %>
 
   <!-- Custom fonts -->
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+  <%= stylesheet_link_tag 'https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' %>
   <%= stylesheet_link_tag 'font-awesome.min.css' %>
   <%= stylesheet_link_tag 'ionicons.min.css' %>
   <%= stylesheet_link_tag 'animate.min.css' %>
@@ -34,6 +34,19 @@
   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
   <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
+
+  <!-- head inclusion for video background -->
+
+
+
+  <link href="css/YTPlayer.css" media="all" rel="stylesheet" type="text/css">
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.js"></script>
+  <script src="inc/jquery.mb.YTPlayer.js"></script>
+
+
+
+
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
@@ -254,19 +267,16 @@
   <div class="container-fluid">
     <div class="row sponsor text-center">
       <div class="col-md-2 gray col-md-offset-1">
-        <a href="/"><img src="img/logo4.png" alt=""></a>
-      </div>
+        <%=image_tag ('logo4.png') %>      </div>
       <div class="col-md-2 gray">
-        <a href="/"><img src="img/logo2.png" alt=""></a>
-      </div>
+        <%=image_tag ('logo2.png') %>      </div>
       <div class="col-md-2 gray">
-        <a href="/"><img src="img/logo3.png" alt=""></a>
-      </div>
+        <%=image_tag ('logo3.png') %>      </div>
       <div class="col-md-2 gray">
-        <a href="/"><img src="img/logo1.png" alt=""></a>
-      </div>
+        <%=image_tag ('logo1.png') %>      </div>
       <div class="col-md-2 gray">
-        <a href="/"><img src="img/logo5.png" alt=""></a>
+        <%=image_tag ('logo5.png') %>
+
       </div>
     </div>
   </div>
@@ -336,7 +346,7 @@
       <i class="ion-outlet"></i>
     </div>
     <div class="col-md-6">
-      <p>&copy; YOUR WEBSITE 2015</p>
+      <p>&copy; Say Gee! 2016</p>
     </div>
     <div class="col-md-3">
       <ul class="list-inline">
@@ -350,10 +360,10 @@
 </section>
 
 <!-- jQuery -->
-<script src="js/jquery.js"></script>
+<%=javascript_include_tag 'jquery.js' %>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="js/bootstrap.min.js"></script>
+<%=javascript_include_tag 'bootstrap.min.js' %>
 
 <!-- Plugin JavaScript -->
 <%= javascript_include_tag 'jquery.easing.min.js' %>
@@ -365,17 +375,14 @@
 <%= javascript_include_tag 'jquery.placeholder.min.js' %>
 
 
-<!-- Google Map -->
-<!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&amp;sensor=false"></script>
-<script src="js/map.js"></script>
 
 <!-- Plugins for video background -->
-<script src="js/device.min.js"></script>
-<script src="js/jquery.mb.YTPlayer.js"></script>
+<%=javascript_include_tag 'device.min.js' %>
+<%=javascript_include_tag 'jquery.mb.YTPlayer.js' %>
+
 
 <!-- Custom Theme JavaScript -->
-<script src="js/csoon.js"></script>
+<%=javascript_include_tag 'csoon.js' %>
 
 </body>
 </html>
