@@ -6,8 +6,11 @@ Rails.application.config.assets.version = '1.0'
 # Add additional assets to the asset load path
 # Rails.application.config.assets.paths << Emoji.images_path
 
+Rails.application.config.assets.paths << "#{Rails.root}/app/assets/videos"
+Rails.application.config.assets.paths << Rails.root.join('app', 'assets', 'fonts')
+
 # Precompile additional assets.
-# application.js, application.css.erb, and all non-JS/CSS in app/assets folder are already added.
+# application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
 
 Rails.application.config.assets.precompile += %w( search.js )
 Rails.application.config.assets.precompile += %w( bootstrap.min.css )
@@ -28,3 +31,6 @@ Rails.application.config.assets.precompile += %w( jquery.js )
 Rails.application.config.assets.precompile += %w( bootstrap.min.js )
 Rails.application.config.assets.precompile += %w( jquery.mb.YTPlayer.js )
 Rails.application.config.assets.precompile += %w( csoon.js )
+Rails.application.config.assets.precompile += %w( ionicons.css.erb )
+Rails.application.config.assets.precompile += %w( YTPlayer.css )
+Rails.application.config.assets.precompile += %w( .svg .eot .woff .ttf )

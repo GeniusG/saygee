@@ -65,5 +65,6 @@ group :development do
   gem 'font-awesome-rails'
 
   gem 'ionicons-rails', '~> 2.0'
-end
 
+
+end

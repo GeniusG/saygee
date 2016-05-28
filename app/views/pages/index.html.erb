@@ -38,11 +38,12 @@
   <!-- head inclusion for video background -->
 
 
-
-  <link href="css/YTPlayer.css" media="all" rel="stylesheet" type="text/css">
+  <%= stylesheet_link_tag 'YTPlayer.css' %>
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.js"></script>
-  <script src="inc/jquery.mb.YTPlayer.js"></script>
+
+  <%= javascript_include_tag 'jquery.mb.YTPlayer.js' %>
+
 
 
 
@@ -62,7 +63,7 @@
         <i class="fa fa-bars fa-2x"></i>
       </button>
       <a class="navbar-brand page-scroll wow fadeInRight" data-wow-duration="1s" data-wow-delay="1.4s" href="#page-top">
-        <span class="logo">Say Gee !</span> <i class="ion-outlet"></i>
+        <span class="logo">Say Gee !</span> <i class="ion-android-bar"></i>
       </a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -96,12 +97,12 @@
 <header class="intro">
 
   <!-- Video from YouTube. Have Questions? How To: https://github.com/pupunzi/jquery.mb.YTPlayer/wiki -->
-  <a id="bgndVideo" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=TYrX7w1uIq8', containment:'body', autoPlay:true, realfullscreen:true, optimizeDisplay:true, loop:true, mute:true, startAt:0, stopAt: 200, quality:'auto', opacity:1, showControls: false, showYTLogo:false, vol:25}"></a>
+  <a id="bgndVideo" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=lG5aSZBAuPs', containment:'body', autoPlay:true, realfullscreen:true, optimizeDisplay:true, loop:true, mute:true, startAt:0, stopAt: 200, quality:'auto', opacity:1, showControls: false, showYTLogo:false, vol:25}"></a>
 
   <div class="intro-body">
-    <img src="img/logo.png" alt="" class="wow fadeIn" data-wow-duration="4s" data-wow-delay=".4s">
+    <img src="assets/logo.png" alt="" class="wow fadeIn" data-wow-duration="4s" data-wow-delay=".4s">
     <div id="clock" class="wow fadeIn" data-wow-duration="6s" data-wow-delay=".6s"></div>
-    <p class="intro-text wow fadeIn" data-wow-duration="7s" data-wow-delay=".7s">WE ARE COMING SOON. STAY TUNED!</p>
+    <p class="intro-text wow fadeIn" data-wow-duration="7s" data-wow-delay=".7s">Where Code Meets Film!</p>
     <ul class="list-inline lead">
       <li><a href="#about" class="btn btn-border btn-lg page-scroll wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1.4s"><i class="fa fa-chevron-down"></i> WHO WE ARE</a></li>
       <li><a href="#contact" class="btn btn-white btn-lg page-scroll wow fadeInRight" data-wow-duration="1s" data-wow-delay="1.4s"><i class="fa fa-chevron-down"></i> CONTACT US</a></li>
@@ -121,9 +122,7 @@
       <h2>Ideas in your mind & Creation at your fingertips</h2>
       <p>Collaborate closely with a talented web developer to turn your app idea into an effective web presence. Take your completed app to market with strategy from experienced film makers and content creators to establish social trending!   </p>
       <ul class="list-inline lead">
-        <li><a href="/"><i class="fa fa-apple fa-fw fa-2x"></i></a></li>
-        <li><a href="/"><i class="fa fa-windows fa-fw fa-2x"></i></a></li>
-        <li><a href="/"><i class="fa fa-android fa-fw fa-2x"></i></a></li>
+        <%= image_tag('Profile', :class => 'img-responsive center-block') %>
         <li><a href="https://wrapbootstrap.com/theme/csoon-startup-and-coming-soon-theme-WB04J5003" target="_blank" class="btn btn-white btn-lg">Connect With us Now!</a></li>
       </ul>
     </div>
@@ -135,7 +134,13 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
       <h2>Film & Code</h2>
-      <p>Let us build your next project big or small.  Starting with concept development, interaction design, interface design, production management, strategic planning, usability testing, and film social marketing to strategically create a trend and demand for the product. </p>
+      <p>Let us build your next project big or small.  Starting with concept development, interaction design, interface design, production management, strategic planning, usability testing, and film social marketing to strategically create a trend and demand for the product.
+      </p>
+      <%= video_tag('More Ads PrettyRavishing', :size => '640', :controls => true)  %>
+      <p>So here are some small videos or social commercials (as I like to call them, lol) I did for my good friend Paige she will soon be working closely with me on a top secret project of our own check her out on instagram and twitter the name is in her video!</p>
+      <%= video_tag('Pyper V.01', :size => '640', :controls => true)  %>
+      <p>This short video is one I left unfinished because of a lack of footage, I sat in on a graduation photoshoot for my good friend pyper and decided to bring my camera for collect some play around footage here is a small production
+      </p>
     </div>
   </div>
 </section>
@@ -147,7 +152,7 @@
     <div class="col-lg-6 col-lg-offset-3">
       <h2>Get notified!</h2>
       <p>
-        MailChimp Signup Form. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis pulvinar vestibulum.
+Join our mailing list!
       </p>
       <!-- MailChimp Signup Form -->
       <!-- Replace the form action in the line below with your MailChimp embed action! For more information on how to do this please visit the Docs! -->
@@ -174,7 +179,7 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2">
         <h2>App Development</h2>
-        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+<p> </p>
       </div>
     </div>
     <div class="row">
@@ -202,7 +207,7 @@
 <section class="action3 container-fluid text-center wow fadeIn">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
-      <h2>CSOON IS THE PERFECT THEME FOR YOUR NEXT PROJECT!</h2>
+      <h2>New content & clients soon come!</h2>
       <p>It’s time to grow your business. Go make something awesome.</p>
       <p><a href="https://wrapbootstrap.com/theme/csoon-startup-and-coming-soon-theme-WB04J5003" target="_blank" class="btn btn-white btn-lg">Get it Now!</a></p>
     </div>
@@ -215,8 +220,8 @@
     <div class="row">
       <h2>Our Team</h2>
       <div class="col-lg-3 col-md-6">
-        <h4>Rick Grimes</h4>
-        <%= image_tag('avatar1.jpg', :class => 'img-responsive center-block') %>
+        <h4>George Spears</h4>
+        <%= image_tag('Profile .JPG', :class => 'img-responsive center-block', :size => '252x292') %>
         <ul class="list-inline">
           <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></li>
           <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-behance fa-stack-1x fa-inverse"></i></span></a></li>
@@ -288,8 +293,7 @@
     <div class="row">
       <div class="col-md-5">
         <h2>contact us</h2>
-        <p>Feel free to contact us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis pulvinar vestibulum.</p>
+        <p>Reach out to us for quotes on collaborative projects on web apps! We'll work with total determination to have your App or site live in 25 hours or less!</p>
         <h2><i class="icon ion-android-call"></i> (123) 456-7890</h2>
         <h4><i class="icon ion-android-mail"></i> info@youwebsite.com<br>
           <i class="icon ion-ios-location"></i> 2345 Some Ave, New York, NY 23458</h4>
@@ -302,21 +306,21 @@
         <form name="sentMessage" id="contactForm" novalidate="">
           <div class="control-group">
             <div class="form-group floating-label-form-group controls">
-              <label for="name" class="sr-only control-label">You Name</label>
+              <label for="name" class="sr-only control-label">Your Name</label>
               <input type="text" class="form-control input-lg" placeholder="You Name" id="name" required="" data-validation-required-message="Please enter name">
               <span class="help-block text-danger"></span>
             </div>
           </div>
           <div class="control-group">
             <div class="form-group floating-label-form-group controls">
-              <label for="email" class="sr-only control-label">You Email</label>
+              <label for="email" class="sr-only control-label">Your Email</label>
               <input type="email" class="form-control input-lg" placeholder="You Email" id="email" required="" data-validation-required-message="Please enter email">
               <span class="help-block text-danger"></span>
             </div>
           </div>
           <div class="control-group">
             <div class="form-group floating-label-form-group controls">
-              <label for="phone" class="sr-only control-label">You Phone</label>
+              <label for="phone" class="sr-only control-label">Your Phone</label>
               <input type="tel" class="form-control input-lg" placeholder="You Phone" id="phone" required="" data-validation-required-message="Please enter phone number">
               <span class="help-block text-danger"></span>
             </div>
