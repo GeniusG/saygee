@@ -34,3 +34,8 @@ Rails.application.config.assets.precompile += %w( csoon.js )
 Rails.application.config.assets.precompile += %w( ionicons.css.erb )
 Rails.application.config.assets.precompile += %w( YTPlayer.css )
 Rails.application.config.assets.precompile += %w( .svg .eot .woff .ttf )
+
+Rails.application.config.assets.css_compressor = :yui
+Rails.application.config.assets.js_compressor = :uglifier
+
+
