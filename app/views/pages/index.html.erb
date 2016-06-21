@@ -79,12 +79,12 @@
         <li>
           <a class="page-scroll" href="#about">Film & Code</a>
         </li>
-        <li>
+        <!--<li>
           <a class="page-scroll" href="#services">App Development</a>
         </li>
         <li>
           <a class="page-scroll" href="#team">TEAM</a>
-        </li>
+        </li>-->
         <li>
           <a class="page-scroll" href="#contact">CONTACT</a>
         </li>
@@ -115,7 +115,7 @@
   </div>
 </header>
 
-<!-- Action2 Section -->
+<!-- Action2 Section
 <section class="action2 container-fluid text-center wow fadeIn">
   <div class="row">
     <div class="col-lg-6 col-lg-offset-3">
@@ -127,7 +127,7 @@
       </ul>
     </div>
   </div>
-</section>
+</section>-->
 
 <!-- About Section -->
 <section id="about" class="container-fluid text-center wow fadeIn">
@@ -141,6 +141,8 @@
       <%= video_tag('Pyper V.01', :size => '640', :controls => true)  %>
       <p>This short video is one I left unfinished because of a lack of footage, I sat in on a graduation photoshoot for my good friend pyper and decided to bring my camera for collect some play around footage here is a small production
       </p>
+      <%= video_tag('Studio Sample', :size => '640', :controls => true)  %>
+
     </div>
   </div>
 </section>
@@ -173,7 +175,7 @@ Join our mailing list!
   </div>
 </section>
 
-<!-- Services Section -->
+<!--&lt;!&ndash;&lt;!&ndash; Services Section &ndash;&gt;
 <section id="services" class="container-fluid text-center wow fadeIn">
   <div class="col-lg-10 col-lg-offset-1">
     <div class="row">
@@ -184,30 +186,21 @@ Join our mailing list!
     </div>
     <div class="row">
       <div class="col-lg-3 col-sm-6 wow fadeIn" data-wow-delay=".2s">
-        <h4>Studio Snippet</h4>
-        <p>
-          <%= video_tag('Pyper V.01', :size => '640', :controls => true)  %>
 
-
-        </p>
       </div>
       <div class="col-lg-3 col-sm-6 wow fadeIn" data-wow-delay=".4s">
-        <h4><i class="icon icon-heading ion-ios-cloud-download-outline"></i> Suspendisse risu</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis pulvinar vestibulum. Donec eleifend, sem sed dictum mattis, turpis purus placerat eros</p>
+        <p>
+        </p>
       </div>
       <div class="col-lg-3 col-sm-6 wow fadeIn" data-wow-delay=".6s">
-        <h4><i class="icon icon-heading ion-ios-pie-outline"></i> Nullam ultrices</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis pulvinar vestibulum. Donec eleifend, sem sed dictum mattis, turpis purus placerat eros</p>
       </div>
       <div class="col-lg-3 col-sm-6 wow fadeIn" data-wow-delay=".8s">
-        <h4><i class="icon icon-heading ion-ios-camera-outline"></i> Sed porttitor</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis pulvinar vestibulum. Donec eleifend, sem sed dictum mattis, turpis purus placerat eros</p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Action2 Section -->
+&lt;!&ndash; Action2 Section &ndash;&gt;
 <section class="action3 container-fluid text-center wow fadeIn">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
@@ -218,60 +211,45 @@ Join our mailing list!
   </div>
 </section>
 
-<!-- Team Section -->
+&lt;!&ndash; Team Section &ndash;&gt;
 <section id="team" class="container-fluid text-center wow fadeIn">
   <div class="col-lg-10 col-lg-offset-1">
     <div class="row">
-      <h2>Our Team</h2>
+      <h2>Just some pics shot from the Canon!  </h2>
       <div class="col-lg-3 col-md-6">
-        <h4>George Spears</h4>
+
         <%= image_tag('Profile .JPG', :class => 'img-responsive center-block', :size => '252x292') %>
         <ul class="list-inline">
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-behance fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-steam fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="mailto:"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x fa-inverse"></i></span></a></li>
+
         </ul>
-        <h5>CEO</h5>
       </div>
       <div class="col-lg-3 col-md-6">
-        <h4>Glenn Rhee</h4>
+
         <%= image_tag('avatar2.jpg', :class => 'img-responsive center-block') %>
         <ul class="list-inline">
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-skype fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="mailto:"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-dribbble fa-stack-1x fa-inverse"></i></span></a></li>
+
         </ul>
-        <h5>Manager</h5>
+
       </div>
       <div class="col-lg-3 col-md-6">
-        <h4>Daryl Dixon</h4>
+
         <%= image_tag('avatar3.jpg', :class => 'img-responsive center-block') %>
         <ul class="list-inline">
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-tumblr fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-pinterest fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="mailto:"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span></a></li>
+
         </ul>
-        <h5>Developer</h5>
       </div>
       <div class="col-lg-3 col-md-6">
-        <h4>Andrea Harrison</h4>
+
         <%= image_tag('avatar4.jpg', :class => 'img-responsive center-block') %>
         <ul class="list-inline">
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-behance fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x fa-inverse"></i></span></a></li>
-          <li><a href="mailto:"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span></a></li>
+
         </ul>
-        <h5>Designer</h5>
       </div>
     </div>
   </div>
 </section>
 
-<!-- sponsors -->
+&lt;!&ndash; sponsors &ndash;&gt;
 <div id="sponsor" class="wow fadeIn">
   <div class="container-fluid">
     <div class="row sponsor text-center">
@@ -289,7 +267,7 @@ Join our mailing list!
       </div>
     </div>
   </div>
-</div>
+</div>&ndash;&gt;-->
 
 <!-- Contact Section -->
 <section id="contact">
@@ -354,7 +332,7 @@ Join our mailing list!
       <i class="ion-outlet"></i>
     </div>
     <div class="col-md-6">
-      <p>&copy; Say Gee! 2016</p>
+      <p>&copy; Developed By George A. Spears II 2016</p>
     </div>
     <div class="col-md-3">
       <ul class="list-inline">
