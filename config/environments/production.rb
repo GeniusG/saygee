@@ -44,6 +44,6 @@ Rails.application.configure do
 
   Bundler.require(*Rails.groups(assets: %w(development test production)))
 
-  config.public_file_server.enabled = true
+  # config.public_file_server.enabled = false
 
 end
