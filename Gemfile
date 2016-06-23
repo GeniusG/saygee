@@ -10,11 +10,21 @@ group :production do
 
   gem 'pg'
 
+  gem 'rails_12factor'
+
+  # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
+  gem 'spring'
+
+  gem 'font-awesome-sass'
+
+  gem 'font-awesome-rails'
+
+  gem 'ionicons-rails', '~> 2.0'
 end
 
 group :development do
 
-  gem 'sqlite3'
+  gem 'yui-compressor', '~> 0.12.0'
 
 end
 
@@ -53,10 +63,12 @@ group :development, :test do
   gem 'byebug'
 end
 
+
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'web-console', '~> 2.0'
 
+=begin
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 
@@ -65,6 +77,7 @@ group :development do
   gem 'font-awesome-rails'
 
   gem 'ionicons-rails', '~> 2.0'
+=end
 
-
+  gem 'sqlite3'
 end
